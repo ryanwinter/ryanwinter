@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## My Blog
 [https://ryanwinter.org](https://ryanwinter.org)
 
